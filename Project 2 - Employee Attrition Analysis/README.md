@@ -37,4 +37,4 @@ Navigate through different visualizations and filters to explore insights on emp
 
 ## Conclusion
 
-This analysis provides valuable insights into the factors contributing to employee attrition and offers actionable recommendations for improving employee retention strategies. By leveraging data visualization and analytics, we aim to support organizational decision-making and foster a more engaged workforce.
+This analysis provides valuable insights into the factors contributing to employee attrition and offers actionable recommendations for improving employee retention strategies.
