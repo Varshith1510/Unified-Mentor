@@ -1,18 +1,43 @@
-This repository contains projects I've worked on during my internship at Unified Mentor as a Data Science Intern.
+# Employee Attrition Analysis
+
+Welcome to the repository documenting my analysis on employee attrition in a company. This project aims to explore factors contributing to employee turnover, visualize key insights, and provide recommendations to mitigate attrition.
 
 ## Overview
-Each project folder contains detailed documentation, code & visualizations related to specific datasets.
 
-## Projects Included
+Employee attrition is a critical issue for organizations, impacting productivity, morale, and operational costs. This analysis delves into understanding the patterns, reasons, and impacts of employee turnover using available HR data.
 
-### Project 1: Analysis of Bird Strikes on Aircrafts 
+## Analysis and Insights
 
-A bird strike is strictly defined as a collision between a bird and an aircraft which is in flight or on a take-off or landing roll. Bird Strike is common and can be a significant threat to aircraft safety. For smaller aircraft, significant damage may be caused to the aircraft structure and all aircraft, especially jet-engine ones, are vulnerable to the loss of thrust which can follow the ingestion of birds into engine air intakes. This has resulted in several fatal accidents.
-Bird strikes may occur during any phase of flight, but are most likely during the take-off, initial climb, approach and landing phases due to the greater numbers of birds in flight at lower levels. Create a dashboard that visualizes data related to bird strikes on aircraft and provides meaningful insights.
+### Dashboard Overview
 
-### Project 2: Employee Attrition Analysis
+I have created an interactive dashboard using Tableau Public to visualize and explore the employee attrition data. You can view the dashboard [here](https://public.tableau.com/app/profile/varshith.p.singh6551/viz/EmployeeAttritionAnalysis_17200179944710/EmployeeAttritionAnalysis).
+Navigate through different visualizations and filters to explore insights on employee attrition.
 
-XYZ company which was established a few years back is facing around a 15% attrition rate for a couple of years. And it's majorly affecting the company in many aspects. In order to understand why employees are leaving the company and reduce the attrition rate, build a dashboard which can help the organization in making data-driven decisions. 
+### Key Insights
+
+- The company has a total of 4,410 employees.
+
+- Nearly 16% of employees have exited the company.
+
+- Currently, the company has only 3,699 employees (active).
+
+- On an average, an employee spends 7 years in the company.
+
+- Employees from a non-technical background, such as Life Sciences & Medicine contribute to nearly two-thirds of the employees who’ve exited the company .
+
+- Approximately, 20% of male employees & 15% of female employees have exited the company.
+
+- Employees who’re in their mid 30s seem to contribute a large portion towards employees who leave the company .
+
+- Employees who work as a Sales Executive/Research Scientist have the highest attrition count.
+
+- Close to 60% of the employees who leave the company are those who’ve worked in the company for a span of 1-5 yrs.
+
+- Nearly one-third of employees who exit the company is due to poor work environment.
+
+## Conclusion
+
+This analysis provides valuable insights into the factors contributing to employee attrition and offers actionable recommendations for improving employee retention strategies.
 
 
 
